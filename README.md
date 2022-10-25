@@ -1,4 +1,4 @@
-### Przedmiot prowadzony na jednym z semestrów. Celem przedmiotu było rozwiązywanie problemów matematycznych i fizycznych za pomocą metod numerycznych (operacji na liczbach). W skład przedmiotu wchodziło 5 laboratoriów poświęconych różnym algorytmom i symulacjom inżynieryjnym. Laboratoria wykonanywane były z wykorzystaniem języka Python na platformie Jupyter Notebook.
+#### Przedmiot prowadzony na jednym z semestrów. Celem przedmiotu było rozwiązywanie problemów matematycznych i fizycznych za pomocą metod numerycznych (operacji na liczbach). W skład przedmiotu wchodziło 5 laboratoriów poświęconych różnym algorytmom i symulacjom inżynieryjnym. Laboratoria wykonanywane były z wykorzystaniem języka Python na platformie Jupyter Notebook.
 
 Laboratoria (Prace domowe):
 
